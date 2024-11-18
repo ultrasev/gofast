@@ -1,3 +1,3 @@
-module github.com/yourusername/gofast
+module github.com/ultrasev/gofast
 
-go 1.21.6
+go 1.21
